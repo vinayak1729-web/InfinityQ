@@ -1,4 +1,4 @@
-def train_q_2024():
+def allquestions_2024():
     return r"""
 
 \documentclass{article}

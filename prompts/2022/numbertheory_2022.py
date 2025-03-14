@@ -1,4 +1,4 @@
-def numbertheory2022():
+def numbertheory_2022():
 
     return r"""
 

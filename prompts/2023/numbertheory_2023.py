@@ -1,4 +1,4 @@
-def numbertheory():
+def numbertheory_2023():
     return r"""
 
 \documentclass{article}

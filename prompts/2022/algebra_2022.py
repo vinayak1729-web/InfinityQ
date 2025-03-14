@@ -1,4 +1,4 @@
-def algebra2022():
+def algebra_2022():
     return r"""
 
 \documentclass{article}

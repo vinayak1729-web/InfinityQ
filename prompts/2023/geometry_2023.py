@@ -1,4 +1,4 @@
-def geometry():
+def geometry_2023():
     return r"""
 
 \documentclass{article}

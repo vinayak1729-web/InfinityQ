@@ -1,4 +1,4 @@
-def combinatrics2022_trainquestions():
+def combinatrics_2022():
     return r"""
 
 \documentclass{article}

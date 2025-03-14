@@ -1,3 +1,0 @@
-def numbertheory():
-    return r"""
-"""

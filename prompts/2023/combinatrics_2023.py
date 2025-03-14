@@ -1,4 +1,4 @@
-def Combinatorics():
+def combinatorics_2023():
     return r"""
 
 \documentclass{article}

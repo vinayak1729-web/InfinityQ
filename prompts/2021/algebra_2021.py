@@ -1,4 +1,4 @@
-def algebra2021():
+def algebra_2021():
     return r"""
 
 

@@ -1,4 +1,4 @@
-def algebraPrompt():
+def algebra_2023():
     return r"""
 imo-2023
 Q1.  Professor Oak is feeding his 100 Pokémon. Each Pokémon has a bowl whose capacity
